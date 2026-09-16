@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="NrO8jrLIHBzJyGSTb7OJ">
+    <mxGraphModel dx="2241" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xELx2GDdmyD6QBoA1f1t-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;dashPattern=12 12;strokeWidth=2;rounded=1;strokeColor=#FF6666;" value="" vertex="1">
+          <mxGeometry height="520" width="520" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7V_LtLH250eGXRB0-mc9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Developer&lt;div&gt;( IDE Plugin / Web UI )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7V_LtLH250eGXRB0-mc9-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="System Administrator&lt;div&gt;( Web Portal / Admin API )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-160" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="7V_LtLH250eGXRB0-mc9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Engineering Manager&lt;div&gt;( Web Portal )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-160" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7V_LtLH250eGXRB0-mc9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Enterprise IDP&lt;div&gt;( Cloud AD / OIDC )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="840" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7V_LtLH250eGXRB0-mc9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Source Code VCS&lt;div&gt;( Enterprise Git / GitLab )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="840" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="7V_LtLH250eGXRB0-mc9-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Secure Scan-AI Platform ( Static Code Analysis System )" vertex="1">
+          <mxGeometry height="130" width="280" x="280" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
